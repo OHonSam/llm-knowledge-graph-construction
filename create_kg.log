@@ -1,0 +1,80 @@
+2025-06-16 15:34:29.905 | SUCCESS  | __main__:<module>:27 - LLM initialized successfully
+2025-06-16 15:34:29.908 | SUCCESS  | __main__:<module>:37 - Embedding provider initialized successfully
+2025-06-16 15:34:30.844 | ERROR    | __main__:<module>:50 - Failed to connect to Neo4j: Cannot resolve address 6246b673.databases.neo4j.io:7687
+2025-06-16 15:38:54.383 | SUCCESS  | __main__:<module>:27 - LLM initialized successfully
+2025-06-16 15:38:54.385 | SUCCESS  | __main__:<module>:37 - Embedding provider initialized successfully
+2025-06-16 15:38:55.227 | ERROR    | __main__:<module>:50 - Failed to connect to Neo4j: Could not connect to Neo4j database. Please ensure that the url is correct
+2025-06-16 15:43:47.768 | SUCCESS  | __main__:<module>:27 - LLM initialized successfully
+2025-06-16 15:43:47.772 | SUCCESS  | __main__:<module>:37 - Embedding provider initialized successfully
+2025-06-16 15:43:50.396 | SUCCESS  | __main__:<module>:48 - Neo4j graph connection established
+2025-06-16 15:43:50.421 | SUCCESS  | __main__:<module>:55 - Document transformer initialized
+2025-06-16 15:43:50.422 | INFO     | __main__:<module>:61 - Loading documents...
+2025-06-16 15:44:02.302 | INFO     | __main__:<module>:65 - Loaded 70 documents
+2025-06-16 15:44:02.303 | INFO     | __main__:<module>:70 - Splitting documents into chunks...
+2025-06-16 15:44:02.313 | INFO     | __main__:<module>:78 - Created 70 chunks from documents
+2025-06-16 17:03:15.379 | SUCCESS  | __main__:<module>:28 - LLM initialized successfully
+2025-06-16 17:03:15.381 | SUCCESS  | __main__:<module>:38 - Embedding provider initialized successfully
+2025-06-16 17:03:17.774 | SUCCESS  | __main__:<module>:49 - Neo4j graph connection established
+2025-06-16 17:03:17.797 | SUCCESS  | __main__:<module>:93 - Document transformer initialized
+2025-06-16 17:03:17.797 | INFO     | __main__:<module>:99 - Loading documents...
+2025-06-16 17:03:17.940 | INFO     | __main__:<module>:103 - Loaded 1 documents
+2025-06-16 17:03:17.940 | INFO     | __main__:<module>:108 - Splitting documents into chunks...
+2025-06-16 17:03:17.940 | INFO     | __main__:<module>:116 - Created 1 chunks from documents
+2025-06-16 17:44:25.686 | SUCCESS  | __main__:<module>:28 - LLM initialized successfully
+2025-06-16 17:44:25.688 | SUCCESS  | __main__:<module>:38 - Embedding provider initialized successfully
+2025-06-16 17:44:27.624 | SUCCESS  | __main__:<module>:49 - Neo4j graph connection established
+2025-06-16 17:44:27.646 | ERROR    | __main__:<module>:124 - Failed to initialize document transformer: Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'str'>
+2025-06-16 17:45:04.704 | SUCCESS  | __main__:<module>:28 - LLM initialized successfully
+2025-06-16 17:45:04.704 | SUCCESS  | __main__:<module>:38 - Embedding provider initialized successfully
+2025-06-16 17:45:06.657 | SUCCESS  | __main__:<module>:49 - Neo4j graph connection established
+2025-06-16 17:45:06.657 | ERROR    | __main__:<module>:124 - Failed to initialize document transformer: Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'str'>
+2025-06-16 18:04:28.402 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 18:04:28.402 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 18:04:30.903 | SUCCESS  | __main__:<module>:50 - Neo4j graph connection established
+2025-06-16 18:04:30.915 | SUCCESS  | __main__:<module>:127 - Document transformer initialized
+2025-06-16 18:04:30.916 | INFO     | __main__:<module>:133 - Loading documents...
+2025-06-16 18:04:31.106 | INFO     | __main__:<module>:137 - Loaded 1 documents
+2025-06-16 18:04:31.106 | INFO     | __main__:<module>:142 - Splitting documents into chunks...
+2025-06-16 18:04:31.106 | INFO     | __main__:<module>:150 - Created 1 chunks from documents
+2025-06-16 18:45:58.135 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 18:45:58.135 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 18:46:00.320 | SUCCESS  | __main__:<module>:50 - Neo4j graph connection established
+2025-06-16 18:46:00.335 | SUCCESS  | __main__:<module>:136 - Document transformer initialized
+2025-06-16 18:46:00.335 | INFO     | __main__:<module>:142 - Loading documents...
+2025-06-16 18:46:00.509 | INFO     | __main__:<module>:146 - Loaded 1 documents
+2025-06-16 18:46:00.509 | INFO     | __main__:<module>:151 - Splitting documents into chunks...
+2025-06-16 18:46:00.510 | INFO     | __main__:<module>:159 - Created 1 chunks from documents
+2025-06-16 19:30:17.631 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 19:30:17.631 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 19:32:08.817 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 19:32:08.820 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 19:32:11.042 | SUCCESS  | __main__:<module>:50 - Neo4j graph connection established
+2025-06-16 19:32:11.058 | SUCCESS  | __main__:<module>:246 - Document transformer initialized
+2025-06-16 19:32:11.058 | INFO     | __main__:<module>:252 - Loading documents...
+2025-06-16 19:32:11.228 | INFO     | __main__:<module>:256 - Loaded 1 documents
+2025-06-16 19:32:11.228 | INFO     | __main__:<module>:261 - Splitting documents into chunks...
+2025-06-16 19:32:11.228 | INFO     | __main__:<module>:269 - Created 1 chunks from documents
+2025-06-16 19:45:54.539 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 19:45:54.543 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 19:45:56.609 | SUCCESS  | __main__:<module>:50 - Neo4j graph connection established
+2025-06-16 19:45:56.623 | SUCCESS  | __main__:<module>:241 - Document transformer initialized
+2025-06-16 19:45:56.624 | INFO     | __main__:<module>:247 - Loading documents...
+2025-06-16 19:45:56.799 | INFO     | __main__:<module>:251 - Loaded 1 documents
+2025-06-16 19:45:56.800 | INFO     | __main__:<module>:256 - Splitting documents into chunks...
+2025-06-16 19:45:56.800 | INFO     | __main__:<module>:264 - Created 1 chunks from documents
+2025-06-16 20:12:57.899 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 20:12:57.901 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 20:13:00.955 | SUCCESS  | __main__:<module>:50 - Neo4j graph connection established
+2025-06-16 20:13:00.971 | SUCCESS  | __main__:<module>:236 - Document transformer initialized
+2025-06-16 20:13:00.971 | INFO     | __main__:<module>:242 - Loading documents...
+2025-06-16 20:13:01.171 | INFO     | __main__:<module>:246 - Loaded 1 documents
+2025-06-16 20:13:01.171 | INFO     | __main__:<module>:251 - Splitting documents into chunks...
+2025-06-16 20:13:01.171 | INFO     | __main__:<module>:259 - Created 1 chunks from documents
+2025-06-16 20:24:26.140 | SUCCESS  | __main__:<module>:29 - LLM initialized successfully
+2025-06-16 20:24:26.140 | SUCCESS  | __main__:<module>:39 - Embedding provider initialized successfully
+2025-06-16 20:24:28.408 | SUCCESS  | __main__:<module>:50 - Neo4j graph connection established
+2025-06-16 20:24:28.421 | SUCCESS  | __main__:<module>:236 - Document transformer initialized
+2025-06-16 20:24:28.422 | INFO     | __main__:<module>:242 - Loading documents...
+2025-06-16 20:24:28.601 | INFO     | __main__:<module>:246 - Loaded 1 documents
+2025-06-16 20:24:28.601 | INFO     | __main__:<module>:251 - Splitting documents into chunks...
+2025-06-16 20:24:28.601 | INFO     | __main__:<module>:259 - Created 1 chunks from documents
